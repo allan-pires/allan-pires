@@ -1,4 +1,4 @@
-![](https://i.imgur.com/o7wnKH2.png)
+![](https://i.imgur.com/siC28St.png)
 
 
 Hello, I'm Allan! 
