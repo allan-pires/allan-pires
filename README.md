@@ -1,5 +1,4 @@
-![Github banner](https://user-images.githubusercontent.com/2620618/112678583-545ab980-8e28-11eb-944a-147e2e47a484.png)
-
+![Github banner](https://user-images.githubusercontent.com/2620618/112678977-dcd95a00-8e28-11eb-961d-a6f8477fc885.png)
 
 Hello, I'm Allan! 
 
