@@ -1,4 +1,4 @@
-![](https://i.imgur.com/4ndNC6g.png)
+![Github banner](https://user-images.githubusercontent.com/2620618/112678583-545ab980-8e28-11eb-944a-147e2e47a484.png)
 
 
 Hello, I'm Allan! 
