@@ -10,8 +10,8 @@ class About < Me
   def current_workplace
     {
       'workplace': {
-        'company': 'Traction Guest',
-        'position': 'Software Developer'         
+        'company': 'Slack',
+        'position': 'Software Engineer'         
        }
      }
   end
