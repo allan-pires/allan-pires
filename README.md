@@ -1,4 +1,4 @@
-![Github banner](https://user-images.githubusercontent.com/2620618/112678977-dcd95a00-8e28-11eb-961d-a6f8477fc885.png)
+![Github banner](https://user-images.githubusercontent.com/2620618/122989155-57961080-d357-11eb-8912-cc9ed6d7ed8e.png)
 
 # 👋 Hi, I'm Allan! 
 ```ruby
