@@ -1,4 +1,6 @@
-![Github banner](https://user-images.githubusercontent.com/2620618/122989155-57961080-d357-11eb-8912-cc9ed6d7ed8e.png)
+<p align="center">
+<img src="https://pbs.twimg.com/media/EJnsxO_W4AE8AqM.jpg" height="350px"/>
+</p>
 
 <h1 align="center">👋 Hi there, I'm Allan</h1>
 
