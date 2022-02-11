@@ -1,20 +1,18 @@
-<p align="center">
 <img src="https://pbs.twimg.com/media/EJnsxO_W4AE8AqM.jpg" height="350px"/>
-</p>
 
-<h1 align="center">👋 Hi there, I'm Allan</h1>
+<h1>👋 Hi there, I'm Allan (he/him/his)</h1>
 
-- 💬 My pronouns are he/him/his.
-- 💻 I'm a Software Engineer at Slack.
-- 🧠 I have experience working with Ruby, Java and PHP.
-- 🎮 My favorite game is Rocket League
-- 🐕 I'm a dog person
+- 💬 I like to joke around
+- 🌱 Trying to mentor new people in tech
+- ♦️ Ruby is my favorite language to work with, but also knows some Java and PHP.
+- 🎮 Decent Rocket League player, 1v1 me (please no)
+- 🐕 Dog father (Chewy, if you're reading this you're the goodest boi)
 
   
 <Br>
-<h1 align="center">📬 Get in Touch! </h1>
+<h1>📬 Get in Touch! </h1>
 <Br>
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/allan-pires/" target="blank"><img align="center" src="https://img.shields.io/badge/Allan Pires-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:doislan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/doislan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;
 </p>
 
