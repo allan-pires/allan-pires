@@ -6,6 +6,7 @@
 - 🌱 Trying to mentor new people in tech
 - ♦️ Ruby is my favorite language to work with, but also know some Java and PHP
 - 🎮 Decent Rocket League player, 1v1 me (please no)
+- 🇧🇷 Born and raised in Brazil, moved to 🇨🇦 in 2018
 - 🐕 Dog father (Chewy, if you're reading this you're the goodest boi)
 
   
