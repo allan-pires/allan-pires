@@ -1,6 +1,6 @@
-<img src="https://pbs.twimg.com/media/EJnsxO_W4AE8AqM.jpg" height="350px"/>
+<img src="https://i.imgur.com/xSa2YwO.png" height="350px"/>
 
-<h1>👋 Hi there, I'm Allan (he/him/his)</h1>
+<h1>👋 Hi there, I'm Allan (he/him)</h1>
 
 - 💬 I like to joke around
 - 🌱 Trying to mentor new people in tech
