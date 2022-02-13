@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/xSa2YwO.png" height="350px"/>
+<img src="https://i.imgur.com/rPoxqLX.png"/>
 
 <h1>👋 Hi there, I'm Allan (he/him)</h1>
 
