@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/rPoxqLX.png" height="320em"/>
+<img src="https://i.imgur.com/rPoxqLX.png"/>
 </p>
 
 <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em"> Hi there, I'm Allan</h1>
