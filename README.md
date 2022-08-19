@@ -12,7 +12,7 @@
 
 - 😂 I like to joke around
 
-- 🌱 Trying to mentor new people in tech
+- 🌱 Mentoring new people in tech
 
 - ♦️ Ruby is my favorite language
 
