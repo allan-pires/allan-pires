@@ -6,22 +6,27 @@
 
 <img src="http://pa1.narvii.com/6722/8143d640b0f68362eb5372b0fca1b03731773ee6_00.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left">
+💬 My pronouns are he/him/his.
 
-- 💬 My pronouns are he/him/his
+😂 I like to joke around.
 
-- 😂 I like to joke around
+🎮 I have an obscene amount of hours in Rocket League and Dota 2.
 
-- 🌱 Mentoring new people in tech
+🐕 Dog father (Chewy is the goodest boi).
 
-- ♦️ Ruby is my favorite language
+🌎 Born and raised in Brazil, moved to Canada in 2018.
 
-- 🎮 Decent Rocket League player
+## Work stuff
+💼 I'm a Software Engineer at GitHub.
 
-- 🌎 Born and raised in Brazil, moved to Canada in 2018
+💻 I've been working with software development since 2015 and I still don't know what I'm doing.
 
-- 🐕 Dog person
-</p>
+🛠️ During these years I helped to build large-scale and resilient applications, I designed, coded, and tested complex systems and took ownership of core components.
+
+🌱 Started a mentorship program to help new people into tech.
+
+🧠 Experience with: Ruby, Java, PHP, Rails, Spring, MySQL, Postgres, AWS, Docker, RabbitMQ, Sidekiq.
+
 
 <Br>
 <h1>📬 Get in Touch! </h1>
