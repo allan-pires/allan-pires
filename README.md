@@ -16,8 +16,9 @@
 
 🌎 Born and raised in Brazil, moved to Canada in 2018.
 
-## Work stuff
-💼 I'm a Software Engineer at GitHub.
+<Br>
+
+# 💼 Work stuff
 
 💻 I've been working with software development since 2015 and I still don't know what I'm doing.
 
@@ -26,7 +27,6 @@
 🌱 Started a mentorship program to help new people into tech.
 
 🧠 Experience with: Ruby, Java, PHP, Rails, Spring, MySQL, Postgres, AWS, Docker, RabbitMQ, Sidekiq.
-
 
 <Br>
 <h1>📬 Get in Touch! </h1>
