@@ -6,27 +6,27 @@
 
 <img src="http://pa1.narvii.com/6722/8143d640b0f68362eb5372b0fca1b03731773ee6_00.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
-💬 My pronouns are he/him/his.
+👋 My pronouns are he/him
 
-😂 I like to joke around.
+💀 Proficient at bad jokes
 
-🎮 I have an obscene amount of hours in Rocket League and Dota 2.
+🎮 I play a lot (primarily fast-paced games, but really anything)
 
-🐕 Dog father (Chewy is the goodest boi).
+🐕 Chewy is the best boi
 
-🌎 Born and raised in Brazil, moved to Canada in 2018.
+🌎 From Brazil, living in Canada
 
 <Br>
 
 # 💼 Work stuff
 
-💻 I've been working with software development since 2015 and I still don't know what I'm doing.
+💻 Software Engineer since 2015 and still has no idea what is doing
 
-🛠️ During these years I helped to build large-scale and resilient applications, I designed, coded, and tested complex systems and took ownership of core components.
+🛠️ Helped to design, code, test and maintain complex and resilient systems at large scale
 
-🌱 Started a mentorship program to help new people into tech.
+🌱 Likes to mentor new folks
 
-🧠 Experience with: Ruby, Java, PHP, Rails, Spring, MySQL, Postgres, AWS, Docker, RabbitMQ, Sidekiq.
+🧠 Experience with: Ruby, Java, PHP, Rails, Spring, MySQL, Postgres, AWS, Docker, RabbitMQ, Sidekiq and a bunch of other tools.
 
 <Br>
 <h1>📬 Get in Touch! </h1>
