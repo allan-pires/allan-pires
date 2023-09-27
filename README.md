@@ -12,7 +12,7 @@
 
 🎮 I play a lot (primarily fast-paced games, but really anything)
 
-🐕 Chewy is the best boi
+🐕 Chewy will always be the best boi
 
 🌎 From Brazil, living in Canada
 
@@ -20,7 +20,7 @@
 
 # 💼 Work stuff
 
-💻 Software Engineer since 2015 and still has no idea what is doing
+💻 Software Engineer since 2015 and still can't exit vim
 
 🛠️ Helped to design, code, test and maintain complex and resilient systems at large scale
 
