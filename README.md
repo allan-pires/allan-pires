@@ -1,9 +1,9 @@
 ```
 ➜  ~  ls
-Applications       Library            Public             Games
-Desktop            Movies             about-me.txt       kittens
-Documents          Music              stuff              test.sh
-Downloads          Pictures           Projects
+Applications       Library            Public             kittens
+Desktop            Movies             Projects           stuff
+Documents          Music              about-me.tx        test.sh
+Downloads          Pictures           games
 
 ➜  ~  vim about-me.txt
   _    _ _____   _______ _    _ ______ _____  ______ 
