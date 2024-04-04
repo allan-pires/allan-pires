@@ -2,7 +2,7 @@
 ➜  ~  ls
 Applications       Library            Public             kittens
 Desktop            Movies             Projects           stuff
-Documents          Music              about-me.tx        test.sh
+Documents          Music              about-me.txt        test.sh
 Downloads          Pictures           games
 
 ➜  ~  vim about-me.txt
