@@ -1,4 +1,4 @@
-```bash
+```shell
 ➜  ~  ls
 Applications       Library            Public             kittens
 Desktop            Movies             Projects           stuff
@@ -6,7 +6,7 @@ Documents          Music              about-me.txt       test.sh
 Downloads          Pictures           games
 
 ➜  ~  vim about-me.txt
-  _    _ _____   _______ _    _ ______ _____  ______ 
+ "_    _ _____   _______ _    _ ______ _____  ______ 
  | |  | |_   _| |__   __| |  | |  ____|  __ \|  ____|
  | |__| | | |      | |  | |__| | |__  | |__) | |__   
  |  __  | | |      | |  |  __  |  __| |  _  /|  __|  
@@ -28,7 +28,7 @@ ok now how do I close this
 exit
 quit
 q
-PLS SEND HELP
+PLS SEND HELP"
 ~
 ~
 ~
