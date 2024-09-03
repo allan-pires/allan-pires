@@ -1,4 +1,4 @@
-```
+```bash
 ➜  ~  ls
 Applications       Library            Public             kittens
 Desktop            Movies             Projects           stuff
