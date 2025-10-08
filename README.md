@@ -16,13 +16,14 @@ Downloads          Pictures           games
                                                      
 I'm Allan! :D
 
-Currently I work as a Software Engineer at GitHub and I have been
-b̶r̶e̶a̶k̶i̶n̶g̶ coding stuff since 2015. I have a lot of experience with
-complex and resilient systems at large scale. I also love to help
-and mentor people new in tech.
+I'm a Senior Software Engineer and I have been b̶r̶e̶a̶k̶i̶n̶g̶ coding stuff
+since 2015. Having worked on companies like GitHub and Slack, I have
+a lot of experience with complex and resilient systems at a large scale.
+I also love helping and mentoring people into tech.
 
-Ah! Unrelated but I play a lot of videogames (especially that car
-soccer game that looks weird, yep, Rocket League).
+In my free time, I enjoy playing a lot of different games (Rocket League is
+my go-to comfort game), snowboarding and learning Japanese　(はじめまして,
+アランです).
 
 ok now how do I close this
 exit
